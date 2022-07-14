@@ -57,7 +57,7 @@ Address is printed in hexadecimal.
 Prints a string in reverse.
 .TP
 .B R
-Prints a string converted to rot13
+Prints a string converted to rot13.
 .TP
 .B %
 A '%' is written but no argument is converted. The complete version specification is '%%'
@@ -72,4 +72,4 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH BUGS
 No known bugs
 .SH AUTHOR
-Oliver Samuel, Abimbola Sherifah
+Mustapha Isah, Bubacarr Jallow
